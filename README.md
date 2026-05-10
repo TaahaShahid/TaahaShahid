@@ -1,3 +1,7 @@
+## <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlsY3F4cjF5c3BxMDhrN215MnpraXRiZjc0emIwYmx5Z3F2NXM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" width="700"/>
+</p>
+
 ## Hi, i'm Taaha :)
 
 # 💫 About Me:
