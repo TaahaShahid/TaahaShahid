@@ -1,8 +1,8 @@
 ## <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlsY3F4cjF5c3BxMDhrN215MnpraXRiZjc0emIwYmx5Z3F2NXM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/200.webp" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3pwZ3hrNHl3OHhveWc0ZHBhM3JrM210cWNhb2J4Yzd5NmtxbHllaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/200.webp" width="100%"/>
 </p>
 
-## Hi, i'm Taaha :)
+## <h1 align="center">Hi :), I'm Taaha 👋</h1>
 
 # 💫 About Me:
 🚀 Software Engineering Student <br/><br>💻 Building Web and mobile Applications<br/><br>☁️ Exploring Cloud Computing with AWS & Docker<br/>  <br>🤖 Passionate About AI-Powered Tools and Automation<br>
