@@ -1,5 +1,10 @@
 ## <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3pwZ3hrNHl3OHhveWc0ZHBhM3JrM210cWNhb2J4Yzd5NmtxbHllaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/200.webp" width="800"/>
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3pwZ3hrNHl3OHhveWc0ZHBhM3JrM210cWNhb2J4Yzd5NmtxbHllaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/200.webp"
+    width="100%"
+    height="300"
+    style="object-fit: cover; border-radius: 10px;"
+  />
 </p>
 
 ## <h1 align="center">Hi, I'm Taaha 👋</h1>
