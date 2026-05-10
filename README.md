@@ -1,5 +1,5 @@
 ## <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlsY3F4cjF5c3BxMDhrN215MnpraXRiZjc0emIwYmx5Z3F2NXM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/200.webp" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlsY3F4cjF5c3BxMDhrN215MnpraXRiZjc0emIwYmx5Z3F2NXM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/200.webp" width="400"/>
 </p>
 
 ## Hi, i'm Taaha :)
